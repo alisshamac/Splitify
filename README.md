@@ -31,8 +31,9 @@ Splitify is a debt management command line app that runs through Python and Mari
 
 # Screenshots
 
-![image](https://github.com/user-attachments/assets/edc1960a-de2e-4dba-bb80-8c25f4f7443b) ![image](https://github.com/user-attachments/assets/262b952d-88da-41e9-8301-5e15786a23b5)
-![image](https://github.com/user-attachments/assets/3117e190-8d06-44f3-a7df-c538fecfc531) ![image](https://github.com/user-attachments/assets/51e47740-9543-4c7e-9309-09bbdd4212ec)
+![image](https://github.com/user-attachments/assets/edc1960a-de2e-4dba-bb80-8c25f4f7443b) ![image](https://github.com/user-attachments/assets/3117e190-8d06-44f3-a7df-c538fecfc531) 
+![image](https://github.com/user-attachments/assets/51e47740-9543-4c7e-9309-09bbdd4212ec) ![image](https://github.com/user-attachments/assets/1936c1f1-44a5-40e1-aae6-eef688717edb)
+
 ![image](https://github.com/user-attachments/assets/e74d650a-d2b7-400f-883e-888d108ce08c) ![image](https://github.com/user-attachments/assets/edf0a68e-5366-4d44-9210-17523ddacc5a)
 
 
@@ -46,7 +47,7 @@ Make sure to installl the MySQL connector library for Python and MariaDB before 
 Install MariaDB: https://mariadb.com/downloads/
 - Follow installation instructions.
   
-![image](https://github.com/user-attachments/assets/1b3ed85d-c222-40ea-beb1-f5bc7e89a0a1) 
+![image](https://github.com/user-attachments/assets/262b952d-88da-41e9-8301-5e15786a23b5) ![image](https://github.com/user-attachments/assets/1b3ed85d-c222-40ea-beb1-f5bc7e89a0a1) 
 
 - Take note of root password for later.
 
