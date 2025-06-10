@@ -43,7 +43,10 @@ Install MariaDB: https://mariadb.com/downloads/
 
 Test if MariaDB is functional:
 - Open MariaDB Command Prompt
+
 ![image](https://github.com/user-attachments/assets/39b8c3dd-6b06-49af-bcf8-d49898577713)
+
+
 - Enter the following:
 ```
 mysql -u root -p
@@ -63,6 +66,7 @@ pip install mysql-connector-python
 - Go to main.py and press ctrl+F to use the find feature.
 - Enter "TODO" in the search field
 - Change the password of the root user connector to your root user password.
+
 ![image](https://github.com/user-attachments/assets/88a551ee-ad3f-47eb-b572-2bd0140c44d6)
 
 - Check your root user for a database called project
