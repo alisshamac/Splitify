@@ -35,8 +35,7 @@ Make sure to installl the MySQL connector library for Python and MariaDB before 
 
 Install MariaDB: https://mariadb.com/downloads/
 - Follow installation instructions.
-
-
+  
 ![image](https://github.com/user-attachments/assets/1b3ed85d-c222-40ea-beb1-f5bc7e89a0a1)
 ![image](https://github.com/user-attachments/assets/262b952d-88da-41e9-8301-5e15786a23b5)
 
